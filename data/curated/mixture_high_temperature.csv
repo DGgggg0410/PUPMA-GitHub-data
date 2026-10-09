@@ -1,0 +1,7 @@
+﻿source_sample,rut_depth_60min_mm,dynamic_stability_cycles_per_mm,rut_error_unconfirmed,stability_error_unconfirmed
+40%RAP,3.06,4253.0,0.07,60.0
+50%RAP,2.88,4575.0,0.05,82.0
+60%RAP,2.62,4635.0,0.06,64.0
+70%RAP,2.23,4915.0,0.06,80.0
+PUMB,1.84,8813.0,0.07,90.0
+SBS,2.04,5915.0,0.065,72.0

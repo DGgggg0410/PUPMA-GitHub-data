@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Provisional dataset metadata. Confirm contributors, licensing, and the validated archived version before citing a release."
+type: dataset
+title: "Experimental and computational figure-source data for polyurethane prepolymer-modified asphalt and recycled mixtures"
+authors:
+  - family-names: Wu
+    given-names: Shuhua
+  - family-names: Shen
+    given-names: Haodong
+  - family-names: Fan
+    given-names: Zewei
+  - family-names: Wang
+    given-names: Yongkang
+  - family-names: Luo
+    given-names: Yaofei
+  - family-names: Zhang
+    given-names: Haiwei
+  - family-names: Zhang
+    given-names: Yanfei
+keywords:
+  - polyurethane prepolymer
+  - asphalt
+  - rheology
+  - reclaimed asphalt pavement
+  - Origin figure-source data
