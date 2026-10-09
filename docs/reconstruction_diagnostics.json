@@ -1,0 +1,71 @@
+{
+  "density_after_20ps": {
+    "n": 694,
+    "min": 0.9435610398124603,
+    "max": 1.2127153230292436,
+    "mean": 1.100110434536972,
+    "outside_1p05_to_1p15": 195,
+    "qualification": "20 ps is an audit cut-off, not an author-confirmed equilibration time; points are digitizer coordinates."
+  },
+  "specific_volume_reconstruction": {
+    "linear_fit_intersection_K": 240.67364566325094,
+    "stored_line_intersection_K": 246.88832808832817,
+    "qualification": "Reconstruction from digitized coordinates; does not establish the original MD Tg."
+  },
+  "reaction_asphaltene_phenol": {
+    "transition_state_minus_first_LST_point_Ha": 0.1944259605897969,
+    "last_LST_point_minus_first_Ha": -0.014351777034789848,
+    "LSTmax_minus_first_Ha": 0.2610398690922011,
+    "QSTmax_minus_first_Ha": 0.21554744377317547,
+    "qualification": "Approximate reconstruction from digitized absolute-energy points, not primary quantum-chemistry output."
+  },
+  "reaction_chain_extender": {
+    "transition_state_minus_first_LST_point_Ha": 0.03854214123020938,
+    "last_LST_point_minus_first_Ha": -0.01862674910489659,
+    "LSTmax_minus_first_Ha": 0.2291441588026828,
+    "QSTmax_minus_first_Ha": 0.2291441588026828,
+    "qualification": "Approximate reconstruction from digitized absolute-energy points, not primary quantum-chemistry output."
+  },
+  "reaction_asphaltene_pyrrole": {
+    "transition_state_minus_first_LST_point_Ha": 0.18633093525204458,
+    "last_LST_point_minus_first_Ha": -0.011600719424677663,
+    "LSTmax_minus_first_Ha": 0.23300359712266072,
+    "QSTmax_minus_first_Ha": 0.22895683453225502,
+    "qualification": "Approximate reconstruction from digitized absolute-energy points, not primary quantum-chemistry output."
+  },
+  "loss_complex_interpolation": {
+    "method": "Log-frequency/log-modulus interpolation of complex modulus onto loss-modulus digitizer x coordinates, restricted to common range; 1.15 is a screening threshold, not statistical significance.",
+    "results": [
+      [
+        "90#",
+        53,
+        1.0940390518395111,
+        0
+      ],
+      [
+        "30%PUP",
+        63,
+        2.040951559080683,
+        32
+      ],
+      [
+        "40%PUP",
+        49,
+        0.9354809192949465,
+        0
+      ],
+      [
+        "50%PUP",
+        57,
+        0.9275981348222626,
+        0
+      ],
+      [
+        "SBS",
+        51,
+        1.0458181256732446,
+        0
+      ]
+    ]
+  }
+}

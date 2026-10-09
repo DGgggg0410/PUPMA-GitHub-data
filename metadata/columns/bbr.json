@@ -1,0 +1,93 @@
+{
+  "source_file": "BBR.opju",
+  "sha256": "BD49778D83AE31D65D5020FDFA009028E73BD9A2E485A63F486B77EEEA5317D5",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/BBR/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "沥青类型",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "Base asphalt",
+            "30%PUP",
+            "40%PUP",
+            "50%PUP",
+            "SBS"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "S",
+          "units": "MPa",
+          "comments": "S",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            246.3,
+            184.6,
+            113.6,
+            145.6,
+            205.6
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "E",
+          "long_name": "m",
+          "units": "",
+          "comments": "m",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            0.286,
+            0.355,
+            0.384,
+            0.361,
+            0.324
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "MPa",
+          "comments": "S/m",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            861.2,
+            520.1,
+            259.8,
+            403.3,
+            634.6
+          ]
+        }
+      ]
+    }
+  ]
+}

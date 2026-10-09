@@ -1,0 +1,120 @@
+{
+  "source_file": "各反应的热力学参数指标.opju",
+  "sha256": "36A6ED960E7EE134D4E839AE34FBFA86E67E346E472ADD02B80E6489B478EFD2",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/各反应的热力学参数指标/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "沥青质-苯酚",
+            "扩链剂",
+            "沥青质-吡咯"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -8.875,
+            -11.672,
+            -7.53
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "沥青质-苯酚",
+            "扩链剂",
+            "沥青质-吡咯"
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -87.46,
+            -128.61,
+            -15.64
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "沥青质-苯酚",
+            "扩链剂",
+            "沥青质-吡咯"
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            0.194,
+            0.039,
+            0.186
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "H",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "I",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    }
+  ]
+}

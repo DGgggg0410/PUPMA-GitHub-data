@@ -1,0 +1,198 @@
+{
+  "source_file": "沥青比容-温度曲线.opju",
+  "sha256": "6A1C28C345537E1A24958919F7A78D73C7F4C199940734648BC35B944306BC83",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/沥青比容-温度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": []
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    },
+    {
+      "finder": "[DigiData]\"d370fcc3283b379743d9dcd326551e42.png\"",
+      "name": "d370fcc3283b379743d9dcd326551e42.png",
+      "long_name": "",
+      "pe_path": "/沥青比容-温度曲线/Folder1/",
+      "allocated_rows": 50,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            213.17513490321625,
+            232.48733477450125,
+            253.2731563227116
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "PickedData1",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            0.9896164798486504,
+            1.006158671966515,
+            1.0170523106782794
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            273.2833875146455,
+            293.33239822439316,
+            312.60581857786434,
+            333.0426244657503,
+            353.63454842489153,
+            373.8386772058945,
+            393.49989273750396
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "PickedData2",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            1.020616278898795,
+            1.0269372791389544,
+            1.0377972955090158,
+            1.046236503276463,
+            1.0494978704216518,
+            1.0556507589532964,
+            1.0658719508310013
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            213.17513490321625,
+            253.2731563227116
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            0.9896164798486504,
+            1.0170523106782794
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "J",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            253.2731563227116,
+            393.49989273750396
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.015,
+            1.0658719508310013
+          ]
+        },
+        {
+          "name": "L",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    }
+  ]
+}

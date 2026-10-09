@@ -1,0 +1,168 @@
+{
+  "source_file": "MSCR.opju",
+  "sha256": "97CA9BC53AF70B0154AF3E42C5BD6B6C9D331863D78AADF7D4EB1070E7008F2D",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/MSCR/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "沥青类型",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "90#",
+            "30%PUP",
+            "40%PUP",
+            "50%PUP",
+            "SBS"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "0.1kPa",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.15641,
+            37.16543,
+            42.35461,
+            45.21674,
+            41.86454
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            "",
+            2.5,
+            2.5,
+            2.75,
+            2.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "3.2kPa",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            0.73546,
+            6.86461,
+            8.46813,
+            9.51415,
+            27.78652
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            "",
+            1.75,
+            1.75,
+            1.5,
+            2.5
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "0.1kPa",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            7.13468,
+            1.53546,
+            1.42134,
+            1.34315,
+            3.58431
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            0.15,
+            0.05,
+            0.05,
+            0.03,
+            0.03
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "",
+          "units": "",
+          "comments": "3.2kPa",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            7.66843,
+            1.73543,
+            2.13545,
+            2.26545,
+            3.83546
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            0.02,
+            0.03,
+            0.03,
+            0.02,
+            0.03
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "K",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    }
+  ]
+}

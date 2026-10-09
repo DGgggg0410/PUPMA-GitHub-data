@@ -1,0 +1,1268 @@
+{
+  "source_file": "黏度曲线.opju",
+  "sha256": "0CAB48859DF9E3E3B007C3B21BAAE6E547357F037E3277856DEDECD45E819CFC",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "温度",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "基质沥青",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.06,
+            0.21
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "30%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.23,
+            0.49
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "40%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.47,
+            0.45
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "50%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.5,
+            0.35
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "SBS",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            7.19,
+            1.35
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve3",
+      "name": "FitLinearCurve3",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 12,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            133.33333333333334,
+            141.66666666666666,
+            150.0,
+            158.33333333333334,
+            166.66666666666669,
+            175.0,
+            183.33333333333334,
+            191.66666666666669,
+            200.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "线性拟合 B\"Sheet1列F的线性拟合\"",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            8.649999999999995,
+            7.4333333333333265,
+            6.2166666666666615,
+            4.999999999999993,
+            3.7833333333333243,
+            2.5666666666666558,
+            1.3499999999999908,
+            0.1333333333333222,
+            -1.0833333333333464,
+            -2.3000000000000114
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            133.33333333333334,
+            141.66666666666666,
+            150.0,
+            158.33333333333334,
+            166.66666666666669,
+            175.0,
+            183.33333333333334,
+            191.66666666666669,
+            200.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "常规残差 B\"Sheet1列F的线性拟合\"",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            0.0,
+            3.552713678800501e-15
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "常规残差 B\"Sheet1列F的线性拟合\"",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            0.0,
+            3.552713678800501e-15
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            8.649999999999995,
+            7.4333333333333265,
+            6.2166666666666615,
+            4.999999999999993,
+            3.7833333333333243,
+            2.5666666666666558,
+            1.3499999999999908,
+            0.1333333333333222,
+            -1.0833333333333464,
+            -2.3000000000000114
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "常规残差 B\"Sheet1列F的线性拟合\"",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            0.0,
+            3.552713678800501e-15
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "常规残差 B\"Sheet1列F的线性拟合\"",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            0.0,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15,
+            3.552713678800501e-15
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            6.097560975609756,
+            15.853658536585366,
+            25.609756097560975,
+            35.36585365853659,
+            45.1219512195122,
+            54.87804878048781,
+            64.63414634146342,
+            74.39024390243902,
+            84.14634146341463,
+            93.90243902439023
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.0924338863359836e-15,
+            5.302450735504915e-15
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.048780487804878,
+            96.95121951219511
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve1",
+      "name": "FitLinearCurve1",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            131.66666666666666,
+            138.33333333333334,
+            145.0,
+            151.66666666666666,
+            158.33333333333334,
+            165.0,
+            171.66666666666669,
+            178.33333333333334,
+            185.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Sheet1列F的线性拟合",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            8.649999999999999,
+            7.676666666666666,
+            6.70333333333333,
+            5.729999999999997,
+            4.756666666666664,
+            3.783333333333328,
+            2.809999999999995,
+            1.836666666666659,
+            0.8633333333333262,
+            -0.11000000000000654
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "Sheet1列F的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.6645352591003757e-15,
+            5.773159728050814e-15
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Sheet1列F的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.6645352591003757e-15,
+            5.773159728050814e-15
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            7.189999999999998,
+            1.3499999999999943
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "Sheet1列F的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.6645352591003757e-15,
+            5.773159728050814e-15
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Sheet1列F的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            2.6645352591003757e-15,
+            5.773159728050814e-15
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            27.77777777777778,
+            72.22222222222221
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.8331628588254223e-15,
+            6.604532128325769e-15
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            13.88888888888889,
+            86.11111111111111
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve2",
+      "name": "FitLinearCurve2",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            131.55555555555554,
+            138.11111111111111,
+            144.66666666666666,
+            151.22222222222223,
+            157.77777777777777,
+            164.33333333333331,
+            170.88888888888889,
+            177.44444444444446,
+            184.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Sheet1列E的线性拟合",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.7874999999999996,
+            1.5990277777777777,
+            1.410555555555555,
+            1.222083333333333,
+            1.0336111111111101,
+            0.8451388888888882,
+            0.6566666666666663,
+            0.46819444444444347,
+            0.27972222222222065,
+            0.09124999999999783
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "Sheet1列E的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            8.881784197001252e-16,
+            1.2212453270876722e-15
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Sheet1列E的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            8.881784197001252e-16,
+            1.2212453270876722e-15
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.4999999999999991,
+            0.34999999999999876
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "Sheet1列E的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            8.881784197001252e-16,
+            1.2212453270876722e-15
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Sheet1列E的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            8.881784197001252e-16,
+            1.2212453270876722e-15
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            27.77777777777778,
+            72.22222222222221
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            7.991028053849517e-16,
+            1.310320941402846e-15
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            13.88888888888889,
+            86.11111111111111
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve4",
+      "name": "FitLinearCurve4",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            132.11111111111111,
+            139.22222222222223,
+            146.33333333333334,
+            153.44444444444446,
+            160.55555555555554,
+            167.66666666666666,
+            174.77777777777777,
+            181.88888888888889,
+            189.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Sheet1列D的线性拟合",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.725,
+            1.5436666666666663,
+            1.362333333333333,
+            1.1809999999999992,
+            0.9996666666666654,
+            0.8183333333333325,
+            0.6369999999999987,
+            0.4556666666666658,
+            0.274333333333332,
+            0.0929999999999982
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "Sheet1列D的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.220446049250313e-16,
+            1.609823385706477e-15
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Sheet1列D的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.220446049250313e-16,
+            1.609823385706477e-15
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.4699999999999998,
+            0.4499999999999984
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "Sheet1列D的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.220446049250313e-16,
+            1.609823385706477e-15
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Sheet1列D的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            2.220446049250313e-16,
+            1.609823385706477e-15
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            27.77777777777778,
+            72.22222222222221
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            -1.4910378805485864e-16,
+            1.9809717786863675e-15
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            13.88888888888889,
+            86.11111111111111
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve5",
+      "name": "FitLinearCurve5",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            131.44444444444446,
+            137.88888888888889,
+            144.33333333333334,
+            150.77777777777777,
+            157.22222222222223,
+            163.66666666666669,
+            170.11111111111111,
+            176.55555555555554,
+            183.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Sheet1列B的线性拟合",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.2725000000000009,
+            1.1355555555555559,
+            0.9986111111111118,
+            0.8616666666666668,
+            0.7247222222222227,
+            0.5877777777777777,
+            0.45083333333333275,
+            0.31388888888888866,
+            0.17694444444444413,
+            0.03999999999999959
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "Sheet1列B的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            4.718447854656915e-16
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Sheet1列B的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            4.718447854656915e-16
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.0600000000000005,
+            0.20999999999999952
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "Sheet1列B的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            4.718447854656915e-16
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Sheet1列B的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            -4.440892098500626e-16,
+            4.718447854656915e-16
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            27.77777777777778,
+            72.22222222222221
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            -6.890471492167899e-16,
+            7.168027248324192e-16
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            13.88888888888889,
+            86.11111111111111
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book1]FitLinearCurve6",
+      "name": "FitLinearCurve6",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            125.0,
+            132.77777777777777,
+            140.55555555555554,
+            148.33333333333334,
+            156.11111111111111,
+            163.88888888888889,
+            171.66666666666666,
+            179.44444444444446,
+            187.22222222222223,
+            195.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Sheet1列C的线性拟合",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.4150000000000005,
+            1.2711111111111117,
+            1.127222222222223,
+            0.9833333333333334,
+            0.8394444444444447,
+            0.6955555555555559,
+            0.5516666666666667,
+            0.4077777777777776,
+            0.2638888888888884,
+            0.11999999999999966
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "自变量",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            135.0,
+            175.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "Sheet1列C的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            2.220446049250313e-16
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Sheet1列C的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            2.220446049250313e-16
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "拟合Y值",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            1.2300000000000004,
+            0.48999999999999977
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "Sheet1列C的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            -4.440892098500626e-16,
+            2.220446049250313e-16
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Sheet1列C的常规残差",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            -4.440892098500626e-16,
+            2.220446049250313e-16
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "百分位数",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            27.77777777777778,
+            72.22222222222221
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "参照X",
+          "units": "mu = -0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            -6.222404384804098e-16,
+            4.001958335553787e-16
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "参照线",
+          "units": "sigma = 0.000000",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            13.88888888888889,
+            86.11111111111111
+          ]
+        }
+      ]
+    },
+    {
+      "finder": "[Book2]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/黏度曲线/Folder1/",
+      "allocated_rows": 65,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "温度（℃）",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            119.829,
+            123.062,
+            126.533,
+            129.797,
+            133.053,
+            136.502,
+            139.749,
+            143.223,
+            146.471,
+            149.731,
+            153.193,
+            156.429,
+            159.708,
+            163.142,
+            166.392,
+            169.866,
+            173.094,
+            176.362,
+            179.818
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "基质沥青",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.5977,
+            2.14676,
+            1.77476,
+            1.48276,
+            1.25979,
+            1.0556,
+            0.890544,
+            0.757834,
+            0.657197,
+            0.565207,
+            0.489307,
+            0.430829,
+            0.377845,
+            0.33284,
+            0.291702,
+            0.261274,
+            0.233162,
+            0.20869,
+            0.18902
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "黏度（Pa·s）",
+          "units": "",
+          "comments": "30%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            2.66105,
+            2.27476,
+            1.93169,
+            1.64623,
+            1.41035,
+            1.22857,
+            1.05671,
+            0.917428,
+            0.815562,
+            0.719691,
+            0.644173,
+            0.58285,
+            0.530175,
+            0.491875,
+            0.46113,
+            0.438573,
+            0.45017,
+            0.485578,
+            0.480968
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "40%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.0716,
+            2.61286,
+            2.24754,
+            1.97244,
+            1.71269,
+            1.47388,
+            1.2776,
+            1.11929,
+            0.993745,
+            0.879128,
+            0.782185,
+            0.699131,
+            0.619638,
+            0.541305,
+            0.49734,
+            0.444757,
+            0.516599,
+            0.453746,
+            0.433501
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "50%PUP",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.12761,
+            2.68459,
+            2.31071,
+            1.98698,
+            1.71329,
+            1.50245,
+            1.3142,
+            1.15068,
+            1.0133,
+            0.898606,
+            0.795074,
+            0.704269,
+            0.627495,
+            0.559805,
+            0.492059,
+            0.387238,
+            0.45578,
+            0.353638,
+            0.3422
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "SBS",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            16.4259,
+            14.147,
+            11.9806,
+            10.0774,
+            8.45695,
+            7.19527,
+            6.0427,
+            5.0816,
+            4.31108,
+            3.67248,
+            3.18073,
+            2.88459,
+            2.57112,
+            2.29136,
+            1.98574,
+            1.76272,
+            1.54702,
+            1.35493,
+            1.18963
+          ]
+        }
+      ]
+    }
+  ]
+}

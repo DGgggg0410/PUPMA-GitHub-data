@@ -1,0 +1,279 @@
+{
+  "source_file": "沥青质-吡咯与聚氨酯预聚体能量计算结果.opju",
+  "sha256": "312DF7B0DF73EC953FC89CF0FA71E745430F447285DA2ED01866CC8635EB2B9E",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/沥青质-吡咯与聚氨酯预聚体能量计算结果/Folder1/",
+      "allocated_rows": 32,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": []
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    },
+    {
+      "finder": "[DigiData]\"6455bd413f8ddb8c86b6188166be60da.png\"",
+      "name": "6455bd413f8ddb8c86b6188166be60da.png",
+      "long_name": "",
+      "pe_path": "/沥青质-吡咯与聚氨酯预聚体能量计算结果/Folder1/",
+      "allocated_rows": 50,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            0.0025408654319286628,
+            0.16857851772393564,
+            0.37421270691046504,
+            0.601462396913811,
+            0.6070097378314012,
+            0.6416327966618772,
+            0.659805120357431,
+            0.6676479126891962,
+            0.8069052984824925,
+            0.9991493544196663
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "Energy vs. LST path1",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            -5860.2302068345325,
+            -5860.118696043166,
+            -5860.049541366907,
+            -5860.001519784173,
+            -5860.00089028777,
+            -5859.997922661871,
+            -5859.997922661871,
+            -5859.99720323741,
+            -5860.04756294964,
+            -5860.241807553957
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            0.6605702708288227,
+            0.688689550652469,
+            0.7175739809475071,
+            0.7280947999291436
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "Energy vs. CG path1",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            -5859.999271582734,
+            -5860.018426258993,
+            -5860.034613309353,
+            -5860.0438758992805
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            0.0019670025783848633,
+            0.40022782293778403,
+            0.45857054638140404,
+            0.5148091060286968,
+            0.5226518983604621,
+            0.5268602259531167,
+            0.5599529838408093,
+            0.799827656622119,
+            0.9970451906233393
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "Energy vs. QST path2",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            -5860.2302068345325,
+            -5860.026070143885,
+            -5860.005206834532,
+            -5860.00125,
+            -5860.006825539568,
+            -5860.007185251799,
+            -5860.0157284172665,
+            -5860.048821942446,
+            -5860.241447841727
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "J",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            0.514235243175153,
+            0.5071576013147794,
+            0.5042882870470604,
+            0.5021841232507331,
+            0.5016102603971894
+          ]
+        },
+        {
+          "name": "K",
+          "long_name": "Energy vs. CG path2",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            -5860.001519784173,
+            -5860.0124910071945,
+            -5860.02076438849,
+            -5860.03029676259,
+            -5860.035602517985
+          ]
+        },
+        {
+          "name": "L",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "M",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 3,
+          "values": [
+            0.726755786604208
+          ]
+        },
+        {
+          "name": "N",
+          "long_name": "Transition state",
+          "units": "",
+          "comments": "",
+          "data_format": 0,
+          "designation": 0,
+          "values": [
+            -5860.0438758992805
+          ]
+        },
+        {
+          "name": "O",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 4,
+          "values": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
