@@ -2,9 +2,6 @@
 
 This repository is a **working data-release candidate** associated with the manuscript *Modification mechanisms and rheological properties of polyurethane prepolymer-modified asphalt: Insights from molecular simulations and experiments*. It preserves 21 author-supplied Origin projects and exports all 37 discovered worksheets into CSV. It is not a complete raw-instrument or simulation-reproducibility archive.
 
-## Current status
-
-The data were compared with `CSCM/Manuscript.docx` on 9 October 2026. Several discrepancies remain unresolved. Read [Known issues](docs/KNOWN_ISSUES.md) and [Numerical checks](docs/consistency_checks.csv) before reuse. Original project values are preserved; no discrepancies have been silently corrected.
 
 ## Contents
 
