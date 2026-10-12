@@ -1,0 +1,15 @@
+﻿manuscript_content,supplied_content,missing_or_unconfirmed
+"Figs. 5, 6(b), 8, 13, 14",Digitizer coordinate sheets present,Primary simulation/DSR files and fitted model parameters absent
+Fig. 9; Table 6,Summary energy/thermodynamic values and approximate digitized energy paths,Primary thermochemistry output and conditions absent
+"Figs. 11, 12",Full numerical spectrum sheets present,"Original FTIR exports, processing history, and sample-column mapping unconfirmed"
+"Figs. 15, 16",Result values and several error columns present,"Creep/time histories, replicate records, and error definitions absent"
+"Tables 8, 9",Result tables present,Replicate-level records absent
+Table 10,Penetration/ductility before/after and retained ratios present,Mass-change values and raw masses absent
+Table 11,Rut depth and dynamic stability present,Individual trial records absent
+Table 12,Strain and stiffness present,Flexural tensile strength and specimen-level results absent
+Table 13,Marshall retained ratio and TSR present,"Individual strengths, stability measurements, and specimen records absent"
+Fig. 10,Not supplied as part of the 21 projects,Original fluorescence microscopy images absent
+"Figs. 2, 3, 4, 6(a), 7",Molecular diagrams not provided as numerical structures,Model coordinates/topologies and reaction structures absent
+Tables 1-5; Section 1.2 optimization,Not supported by supplied worksheet records,"Material certificates, model composition export, and 15 BBD runs absent"
+Section 4.5 viscosity,"Two-temperature summaries, 19-point curve, and auxiliary fits present","Acquisition history, construction viscosity criterion, and processing confirmation absent"
+Mixture design,Extra optimum-binder-content worksheet present,"RAP group mass basis, binder replacement scheme, gradation and group-specific mixture design not defined"

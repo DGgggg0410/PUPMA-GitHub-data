@@ -1,0 +1,98 @@
+{
+  "source_file": "储存稳定性.opju",
+  "sha256": "F98FD83EFAE0EA1633EEAA84C7BDAD075DDACE041667A74C5446287BE935F69A",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/储存稳定性/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "时间/h",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            4.0,
+            8.0,
+            24.0,
+            48.0
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "软化点/℃",
+          "units": "",
+          "comments": "上软化点",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            70.2,
+            71.1,
+            71.55,
+            71.7
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "上下软化点差",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            0.55,
+            0.25,
+            0.25,
+            0.2
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "下软化点",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            70.75,
+            71.35,
+            71.8,
+            71.9
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    }
+  ]
+}

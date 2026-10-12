@@ -1,0 +1,113 @@
+{
+  "source_file": "高温性能.opju",
+  "sha256": "997EE6D6D969725E7FE95D71C15CB137574FD3640F4E64944B83364D61EDD7FF",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/高温性能/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "1",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "40%RAP",
+            "50%RAP",
+            "60%RAP",
+            "70%RAP",
+            "PUMB",
+            "SBS"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "C",
+          "long_name": "2",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3.06,
+            2.88,
+            2.62,
+            2.23,
+            1.84,
+            2.04
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            0.07,
+            0.05,
+            0.06,
+            0.06,
+            0.07,
+            0.065
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "3",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            4253.0,
+            4575.0,
+            4635.0,
+            4915.0,
+            8813.0,
+            5915.0
+          ]
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            60.0,
+            82.0,
+            64.0,
+            80.0,
+            90.0,
+            72.0
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_file": "三大指标.opju",
+  "sha256": "9522908B52323B24F092250CA974959460837C4FEE7945CA5B9D53512D13F0FC",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/三大指标/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "沥青类型",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "基质沥青",
+            "PUMB-30",
+            "PUMB-40",
+            "PUMB-50",
+            "SBS"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "延度（5℃）/cm",
+          "units": "",
+          "comments": "老化前延度",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            15.7,
+            50.6,
+            63.9,
+            54.7,
+            28.8
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "软化点/℃",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            48.6,
+            64.9,
+            70.2,
+            67.4,
+            82.2
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "针入度（25℃）/0.1mm",
+          "units": "",
+          "comments": "老化前针入度",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            87.0,
+            75.0,
+            68.0,
+            71.0,
+            60.0
+          ]
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "F",
+          "long_name": "",
+          "units": "",
+          "comments": "老化后针入度",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            49.94,
+            45.68,
+            43.66,
+            44.59,
+            38.04
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "针入度比",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            57.4,
+            60.9,
+            64.2,
+            62.8,
+            63.4
+          ]
+        },
+        {
+          "name": "H",
+          "long_name": "",
+          "units": "",
+          "comments": "老化后延度",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            1.12,
+            19.37,
+            30.6,
+            24.83,
+            10.62
+          ]
+        },
+        {
+          "name": "I",
+          "long_name": "",
+          "units": "",
+          "comments": "残留延度比",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            7.13,
+            38.28,
+            47.9,
+            45.37,
+            36.87
+          ]
+        }
+      ]
+    }
+  ]
+}

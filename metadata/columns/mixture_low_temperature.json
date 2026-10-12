@@ -1,0 +1,113 @@
+{
+  "source_file": "低温性能.opju",
+  "sha256": "091C6CA8C41C45CAE6B090155AC11AEDEB99167151719603F9CC76F762634768",
+  "sheets": [
+    {
+      "finder": "[Book1]Sheet1",
+      "name": "Sheet1",
+      "long_name": "",
+      "pe_path": "/低温性能/Folder1/",
+      "allocated_rows": 48,
+      "columns": [
+        {
+          "name": "A",
+          "long_name": "混合料类型",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 3,
+          "values": [
+            "40%RAP",
+            "50%RAP",
+            "60%RAP",
+            "70%RAP",
+            "PUMB",
+            "SBS"
+          ]
+        },
+        {
+          "name": "B",
+          "long_name": "最大弯拉应变/µε",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3074.0,
+            2944.0,
+            2816.0,
+            2652.0,
+            4316.0,
+            4065.0
+          ]
+        },
+        {
+          "name": "C",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            40.0,
+            42.0,
+            40.0,
+            41.0,
+            42.0,
+            50.0
+          ]
+        },
+        {
+          "name": "D",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "E",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": []
+        },
+        {
+          "name": "F",
+          "long_name": "劲度模量/MPa",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 0,
+          "values": [
+            3116.0,
+            3111.0,
+            3207.0,
+            3371.0,
+            2479.0,
+            2337.0
+          ]
+        },
+        {
+          "name": "G",
+          "long_name": "",
+          "units": "",
+          "comments": "",
+          "data_format": 9,
+          "designation": 2,
+          "values": [
+            20.0,
+            31.0,
+            35.0,
+            25.0,
+            31.0,
+            26.0
+          ]
+        }
+      ]
+    }
+  ]
+}

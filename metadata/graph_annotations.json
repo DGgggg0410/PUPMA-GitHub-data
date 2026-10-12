@@ -1,0 +1,1778 @@
+[
+  {
+    "source_file": "储存模量.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "储存稳定性.opju",
+    "graphs": [
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "legend",
+            "text": "\\l(1.1)\\b(\\p157( \\p82(%(1.1)  )))\\l(1.2)\\b(\\p129( %(1.2)  ))\\l(2.1)\\b(\\p129( %(2.1)))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(%(?Y))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph2]1!Plot(2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "低温性能.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph1]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph2]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph2]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]2!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "劲度模量/MPa"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(2) \\p155(\\f:Times New Roman(劲度模量))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph3]2!Plot(1)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph3]2!Plot(2)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph3]2!Plot(3)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "复数模量.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "高温性能.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph2]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph2]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]2!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "动稳定度/（次/mm\\+(-1)）"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) \\p90(动稳定度)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph3]2!Plot(1)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph3]2!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph3]2!Plot(3)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "各反应的热力学参数指标.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(Activation energy barrier（Ha）)"
+          },
+          {
+            "name": "Text4",
+            "text": "\\b(Asphaltene-phenol)"
+          },
+          {
+            "name": "Text",
+            "text": "\\b(Chain extender)"
+          },
+          {
+            "name": "Text1",
+            "text": "\\b(Asphaltene-pyrrole)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph1]1!Plot(1)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "红外光谱 - 副本.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(Transmittance（\\f:Times New Roman(%)）)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Wavenumber/cm)\\+(\\b(-1))"
+          },
+          {
+            "name": "Text",
+            "text": "\\b(2919)"
+          },
+          {
+            "name": "Text1",
+            "text": "\\b(2849)"
+          },
+          {
+            "name": "Text2",
+            "text": "\\b(1729)"
+          },
+          {
+            "name": "Text3",
+            "text": "\\b(1527)"
+          },
+          {
+            "name": "Text4",
+            "text": "\\b(1455)"
+          },
+          {
+            "name": "Text5",
+            "text": "\\b(1374)"
+          },
+          {
+            "name": "Text6",
+            "text": "\\b(1225)"
+          },
+          {
+            "name": "Text7",
+            "text": "\\b(1102)"
+          },
+          {
+            "name": "Text8",
+            "text": "\\b(990)"
+          },
+          {
+            "name": "Text9",
+            "text": "\\b(913)"
+          },
+          {
+            "name": "Text10",
+            "text": "\\b(2920)"
+          },
+          {
+            "name": "Text11",
+            "text": "\\b(2851)"
+          },
+          {
+            "name": "Text12",
+            "text": "\\b(1457)"
+          },
+          {
+            "name": "Text13",
+            "text": "\\b(1376)"
+          },
+          {
+            "name": "Text14",
+            "text": "\\b(2919)"
+          },
+          {
+            "name": "Text15",
+            "text": "\\b(2849)"
+          },
+          {
+            "name": "Text16",
+            "text": "\\b(1729)"
+          },
+          {
+            "name": "Text17",
+            "text": "\\b(1527)"
+          },
+          {
+            "name": "Text18",
+            "text": "\\b(1455)"
+          },
+          {
+            "name": "Text19",
+            "text": "\\b(1374)"
+          },
+          {
+            "name": "Text20",
+            "text": "\\b(1225)"
+          },
+          {
+            "name": "Text21",
+            "text": "\\b(1102)"
+          },
+          {
+            "name": "Text22",
+            "text": "\\b(991)"
+          },
+          {
+            "name": "Text23",
+            "text": "\\b(914)"
+          },
+          {
+            "name": "Text24",
+            "text": "\\b(2919)"
+          },
+          {
+            "name": "Text25",
+            "text": "\\b(2849)"
+          },
+          {
+            "name": "Text26",
+            "text": "\\b(1729)"
+          },
+          {
+            "name": "Text27",
+            "text": "\\b(1533)"
+          },
+          {
+            "name": "Text28",
+            "text": "\\b(1455)"
+          },
+          {
+            "name": "Text29",
+            "text": "\\b(1374)"
+          },
+          {
+            "name": "Text30",
+            "text": "\\b(1225)"
+          },
+          {
+            "name": "Text31",
+            "text": "\\b(1102)"
+          },
+          {
+            "name": "Text32",
+            "text": "\\b(991)"
+          },
+          {
+            "name": "Text33",
+            "text": "\\b(914)"
+          },
+          {
+            "name": "Text34",
+            "text": "\\b(90#)"
+          },
+          {
+            "name": "Text35",
+            "text": "\\b(90#+PUP)"
+          },
+          {
+            "name": "Text36",
+            "text": "\\b(90#+PUP)\r\n\\b(+compatibilizer)"
+          },
+          {
+            "name": "Text37",
+            "text": "\\b(PUMB-40)"
+          },
+          {
+            "name": "Text38",
+            "text": "\\b(2260)"
+          },
+          {
+            "name": "Text39",
+            "text": "\\b(2260)"
+          },
+          {
+            "name": "Text40",
+            "text": "\\b(2260)"
+          },
+          {
+            "name": "Text41",
+            "text": "\\b(1776)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph1]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_H",
+            "range": "[Graph1]1!Plot(4)"
+          },
+          {
+            "dataset": "Book1_B@2",
+            "range": "[Graph1]1!Plot(5)"
+          },
+          {
+            "dataset": "Book1_B@3",
+            "range": "[Graph1]1!Plot(6)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "红外光谱2.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(Transmittance（%）)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Wavenumber/cm)\\+(\\b(-1))\r\n\\b(（a）FTIR spectra in the range of 4000–500) \\b(cm\\+(-1))"
+          },
+          {
+            "name": "Text",
+            "text": "\\b(90#)"
+          },
+          {
+            "name": "Text1",
+            "text": "\\b(PUMB-30)"
+          },
+          {
+            "name": "Text2",
+            "text": "\\b(PUMB-40)"
+          },
+          {
+            "name": "Text3",
+            "text": "\\b(PUMB-50)"
+          },
+          {
+            "name": "Text4",
+            "text": "\\b(2920)"
+          },
+          {
+            "name": "Text5",
+            "text": "\\b(2851)"
+          },
+          {
+            "name": "Text6",
+            "text": "\\b(1457)"
+          },
+          {
+            "name": "Text7",
+            "text": "\\b(1376)"
+          },
+          {
+            "name": "Text8",
+            "text": "\\b(2925)"
+          },
+          {
+            "name": "Text9",
+            "text": "\\b(2850)"
+          },
+          {
+            "name": "Text10",
+            "text": "\\b(1105)"
+          },
+          {
+            "name": "Text11",
+            "text": "\\b(1532)"
+          },
+          {
+            "name": "Text12",
+            "text": "\\b(1454)"
+          },
+          {
+            "name": "Text13",
+            "text": "\\b(1375)"
+          },
+          {
+            "name": "Text14",
+            "text": "\\b(990)"
+          },
+          {
+            "name": "Text15",
+            "text": "\\b(914)"
+          },
+          {
+            "name": "Text16",
+            "text": "\\b(1729)"
+          },
+          {
+            "name": "Text17",
+            "text": "\\b(1273)"
+          },
+          {
+            "name": "Text20",
+            "text": "\\b(3428)"
+          },
+          {
+            "name": "Text18",
+            "text": "\\b(1665)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph1]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_H",
+            "range": "[Graph1]1!Plot(4)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(Transmittance（%）)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Wavenumber/cm)\\+(\\b(-1))\r\n\\b(（b）FTIR spectra in the range of 3500–3200 cm)\\+(\\b(-1))"
+          },
+          {
+            "name": "Text",
+            "text": "\\b(90#)"
+          },
+          {
+            "name": "Text1",
+            "text": "\\b(30%PUP)"
+          },
+          {
+            "name": "Text2",
+            "text": "\\b(40%PUP)"
+          },
+          {
+            "name": "Text3",
+            "text": "\\b(50%PUP)"
+          },
+          {
+            "name": "Text4",
+            "text": "\\b(Hydrogen-bonded N—H)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph2]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph2]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_H",
+            "range": "[Graph2]1!Plot(4)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "聚氨酯预聚体模型密度图.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "扩链剂与聚氨酯预聚体能量计算结果.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "沥青比容-温度曲线.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "DigiData_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "DigiData_E",
+            "range": "[Graph1]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "DigiData_H",
+            "range": "[Graph2]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "DigiData_K",
+            "range": "[Graph3]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph4",
+        "range": "[Graph4]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "Specific volume\\b(（cm)\\+(\\b(3))\\b(/g）)"
+          },
+          {
+            "name": "XB",
+            "text": "Temperature\\b(（K）)"
+          },
+          {
+            "name": "Text",
+            "text": "253 K"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "DigiData_B",
+            "range": "[Graph4]1!Plot(1)"
+          },
+          {
+            "dataset": "DigiData_E",
+            "range": "[Graph4]1!Plot(2)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "沥青质-苯酚与聚氨酯预聚体能量计算结果.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "沥青质-吡咯与聚氨酯预聚体能量计算结果.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "黏度曲线.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)\r\n\\l(3) %(3)\r\n\\l(4) %(4)\r\n\\l(5) %(5)\r\n\\l(8) %(8,@LG)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph1]1!Plot(4)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph1]1!Plot(5)"
+          },
+          {
+            "dataset": "Book1_B@7",
+            "range": "[Graph1]1!Plot(6)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1)\\b( %(1))\r\n\\l(2)\\b( %(2))\r\n\\l(3)\\b( %(3))\r\n\\l(4)\\b( %(4))\r\n\\l(5)\\b( %(5))"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(黏度（Pa·s）)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph2]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph2]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph2]1!Plot(4)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph2]1!Plot(5)"
+          },
+          {
+            "dataset": "Book1_B@3",
+            "range": "[Graph2]1!Plot(6)"
+          },
+          {
+            "dataset": "Book1_B@5",
+            "range": "[Graph2]1!Plot(7)"
+          },
+          {
+            "dataset": "Book1_B@9",
+            "range": "[Graph2]1!Plot(8)"
+          },
+          {
+            "dataset": "Book1_B@11",
+            "range": "[Graph2]1!Plot(9)"
+          },
+          {
+            "dataset": "Book1_B@13",
+            "range": "[Graph2]1!Plot(10)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)\r\n\\l(3) %(3)\r\n\\l(4) %(4)\r\n\\l(5) %(5)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book2_B",
+            "range": "[Graph3]1!Plot(1)"
+          },
+          {
+            "dataset": "Book2_C",
+            "range": "[Graph3]1!Plot(2)"
+          },
+          {
+            "dataset": "Book2_D",
+            "range": "[Graph3]1!Plot(3)"
+          },
+          {
+            "dataset": "Book2_E",
+            "range": "[Graph3]1!Plot(4)"
+          },
+          {
+            "dataset": "Book2_F",
+            "range": "[Graph3]1!Plot(5)"
+          }
+        ]
+      },
+      {
+        "name": "Graph4",
+        "range": "[Graph4]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(黏度（Pa·s）)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1)\\f:Times New Roman(\\b( %(1)))\r\n\\l(2)\\f:Times New Roman(\\b( %(2)))\r\n\\l(3)\\f:Times New Roman(\\b( %(3)))\r\n\\l(4)\\f:Times New Roman(\\b( %(4)))\r\n\\l(5)\\f:Times New Roman(\\b( %(5)))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book2_B",
+            "range": "[Graph4]1!Plot(1)"
+          },
+          {
+            "dataset": "Book2_C",
+            "range": "[Graph4]1!Plot(2)"
+          },
+          {
+            "dataset": "Book2_D",
+            "range": "[Graph4]1!Plot(3)"
+          },
+          {
+            "dataset": "Book2_E",
+            "range": "[Graph4]1!Plot(4)"
+          },
+          {
+            "dataset": "Book2_F",
+            "range": "[Graph4]1!Plot(5)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "三大指标.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(%(?Y))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))\r\n\\b(（c）延度)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(%(?Y))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))\r\n\\b(（a）针入度)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph2]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(%(?Y))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))\r\n\\b(（b）软化点)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph3]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph4",
+        "range": "[Graph4]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "针入度/dmm"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(%(?X))"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) \\b(%(1))\r\n\\l(2)\\b( %(2))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph4]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph4]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph5",
+        "range": "[Graph5]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph5]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph6",
+        "range": "[Graph6]2!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "\\b(残留延度比/%)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph6]2!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph7",
+        "range": "[Graph7]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph7]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_H",
+            "range": "[Graph7]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph8",
+        "range": "[Graph8]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_I",
+            "range": "[Graph8]1!Plot(1)"
+          }
+        ]
+      },
+      {
+        "name": "Graph9",
+        "range": "[Graph9]2!",
+        "texts": [
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YR",
+            "text": "\\b(残留延度比/%)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1)\\b( %(1))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_I",
+            "range": "[Graph9]2!Plot(1)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "水稳定度.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph1]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph2]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph2]1!Plot(3)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\f:Times New Roman(TSR/%)"
+          },
+          {
+            "name": "XB",
+            "text": "混合料类型"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) \\f:Times New Roman(TSR)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph3]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph3]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph3]1!Plot(3)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "损耗模量.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "相位角.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "最佳油石比.opju",
+    "graphs": []
+  },
+  {
+    "source_file": "BBR.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph1]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph2",
+        "range": "[Graph2]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XB",
+            "text": "%(?X)"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) %(1)\r\n\\l(2) %(2)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph2]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph2]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(%(?Y))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Asphalt type)\r\n\\b((a)Creep stiffness (S) and creep rate (m))"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) \\f:Times New Roman(\\p117(\\b(S)))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph3]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph3]1!Plot(2)"
+          }
+        ]
+      },
+      {
+        "name": "Graph4",
+        "range": "[Graph4]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\b(S/m/MPa)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Asphalt type)\r\n\\b((b) S/m)"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph4]1!Plot(1)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_file": "MSCR.opju",
+    "graphs": [
+      {
+        "name": "Graph1",
+        "range": "[Graph1]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\i(\\b(J)\\-(\\b(nr)))\\b(/kPa)\\+(\\b(-1))"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Asphalt type)\r\n\\b(（b） )\\i(\\b(J))\\-(\\i(\\b(nr)))"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1)\\p109(\\f:Times New Roman(\\b(  0.1 kPa)))\r\n\\l(2)\\p109(\\f:Times New Roman(\\b(  3.2 kPa)))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_F",
+            "range": "[Graph1]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_H",
+            "range": "[Graph1]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_G",
+            "range": "[Graph1]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_I",
+            "range": "[Graph1]1!Plot(4)"
+          }
+        ]
+      },
+      {
+        "name": "Graph3",
+        "range": "[Graph3]1!",
+        "texts": [
+          {
+            "name": "YR",
+            "text": "%(?Y)"
+          },
+          {
+            "name": "XT",
+            "text": "%(?X)"
+          },
+          {
+            "name": "YL",
+            "text": "\\i(\\b(R))\\b(/%)"
+          },
+          {
+            "name": "XB",
+            "text": "\\b(Asphalt type)\r\n\\b(（a）\\i(R))"
+          },
+          {
+            "name": "Legend",
+            "text": "\\l(1) \\p109(\\f:Times New Roman(\\b(\\p92(0.1 kPa))))\r\n\\l(2)\\p109(\\f:Times New Roman(\\b(\\p92(  3.2 kPa))))"
+          }
+        ],
+        "plots": [
+          {
+            "dataset": "Book1_B",
+            "range": "[Graph3]1!Plot(1)"
+          },
+          {
+            "dataset": "Book1_D",
+            "range": "[Graph3]1!Plot(2)"
+          },
+          {
+            "dataset": "Book1_C",
+            "range": "[Graph3]1!Plot(3)"
+          },
+          {
+            "dataset": "Book1_E",
+            "range": "[Graph3]1!Plot(4)"
+          }
+        ]
+      }
+    ]
+  }
+]
