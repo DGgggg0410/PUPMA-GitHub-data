@@ -1,0 +1,7 @@
+﻿source_sample,maximum_flexural_tensile_strain_microstrain,stiffness_modulus_MPa,strain_error_unconfirmed,stiffness_error_unconfirmed
+40%RAP,3074.0,3116.0,40.0,20.0
+50%RAP,2944.0,3111.0,42.0,31.0
+60%RAP,2816.0,3207.0,40.0,35.0
+70%RAP,2652.0,3371.0,41.0,25.0
+PUMB,4316.0,2479.0,42.0,31.0
+SBS,4065.0,2337.0,50.0,26.0

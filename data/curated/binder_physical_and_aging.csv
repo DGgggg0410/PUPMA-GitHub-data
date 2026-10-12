@@ -1,0 +1,6 @@
+﻿source_sample,ductility_before_cm,softening_point_C,penetration_before_0p1mm,penetration_after_0p1mm,retained_penetration_percent,ductility_after_cm,retained_ductility_percent
+基质沥青,15.7,48.6,87.0,49.94,57.4,1.12,7.13
+PUMB-30,50.6,64.9,75.0,45.68,60.9,19.37,38.28
+PUMB-40,63.9,70.2,68.0,43.66,64.2,30.6,47.9
+PUMB-50,54.7,67.4,71.0,44.59,62.8,24.83,45.37
+SBS,28.8,82.2,60.0,38.04,63.4,10.62,36.87

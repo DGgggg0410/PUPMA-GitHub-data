@@ -1,0 +1,6 @@
+﻿source_sample,R_0p1kPa_percent,R_3p2kPa_percent,Jnr_0p1kPa_kPa_inverse,Jnr_3p2kPa_kPa_inverse,R_0p1_error_unconfirmed,R_3p2_error_unconfirmed,Jnr_0p1_error_unconfirmed,Jnr_3p2_error_unconfirmed
+90#,1.15641,0.73546,7.13468,7.66843,,,0.15,0.02
+30%PUP,37.16543,6.86461,1.53546,1.73543,2.5,1.75,0.05,0.03
+40%PUP,42.35461,8.46813,1.42134,2.13545,2.5,1.75,0.05,0.03
+50%PUP,45.21674,9.51415,1.34315,2.26545,2.75,1.5,0.03,0.02
+SBS,41.86454,27.78652,3.58431,3.83546,2.0,2.5,0.03,0.03
